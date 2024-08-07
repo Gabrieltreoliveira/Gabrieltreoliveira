@@ -1,11 +1,45 @@
-- 👋 Hi, I’m @Gabriel Trevisano
-- 👀 I’m interested in Technology and games
-- 🌱 I’m currently learning about Embedded Projects
-- 💞️ Currently working with servers and web development
-- 📫 contact me by email: gabrieltrevisano@deltasoftwares.cloud
-- ⚡ Fun fact: I don't like front-end
+/**
+ *  Bem-vindo ao meu repositório GitHub!
+ *  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+ *  
+ *  Desenvolvedor: [Gabriel Trevisano]
+ *  Contato: gabrieltreoliveira@gmail.com
+ *  LinkedIn: https://acesse.one/gabrieltrevisanolinkedin
+ */
 
-<!---
-Gabrieltreoliveira/Gabrieltreoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+class SobreMim {
+    constructor() {
+        this.nome = "[Gabriel Trevisano Oliveira]";
+        this.experiência = ["TI", "IoT", "Servidores", "Linux"];
+        this.curso = "Tecnólogo em Análise e Desenvolvimento de Sistemas";
+        this.aprendendo = ["[Tecnologia/Ferramenta/Linguagem]"];
+    }
+
+    interesses() {
+        return ["[Projetos embarcados]", "[Seu Interesse 2]", "[Seu Interesse 3]"];
+    }
+}
+
+const minhasTecnologias = {
+    linguagensDeProgramacao: ["C++", "Python", "C"],
+    frameworks: ["React", "Node.js", "Google Cloud"],
+    ferramentas: ["Git", "Docker", "Azure"],
+    bancoDeDados: ["MySQL", "MongoDB"]
+};
+
+console.log("Minhas Tecnologias:", minhasTecnologias);
+
+/**
+ * Projetos Destacados
+ * 1. Projeto1: EcoTrack
+ *    GitHub:
+ * 
+ * 2. Projeto2: Firebase on Raspberry
+ *    GitHub:
+
+function conectarComigo() {
+    return {
+        Instagram: "https://instagram.com/gabrieltreoliveira",
+        Youtube: "https://youtube.com/@deltasoftwares",
+    };
+}
