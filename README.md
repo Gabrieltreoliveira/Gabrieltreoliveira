@@ -16,7 +16,7 @@ class SobreMim {
     }
 
     interesses() {
-        return ["[Projetos embarcados]", "[Seu Interesse 2]", "[Seu Interesse 3]"];
+        return ["[Projetos embarcados]", "[Back End]", "[IoT]"];
     }
 }
 
