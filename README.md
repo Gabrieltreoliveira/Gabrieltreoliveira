@@ -1,55 +1,26 @@
+<img src="./assets/banner.png" width="100%" alt="Gabriel Trevisano — Delta Softwares" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Gabriel+Trevisano;Desenvolvedor+Web+%E2%80%94+Delta+Softwares;PHP+%7C+MySQL+%7C+Infra+%7C+XAMPP" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Gabriel+Trevisano;Desenvolvedor+Web+—+Delta+Softwares;PHP+%7C+MySQL+%7C+Infra+%7C+XAMPP" alt="typing" />
 </p>
 
 <p align="center">
   <a href="https://www.deltasoftwares.com.br">
     <img src="https://img.shields.io/badge/Website-deltasoftwares.com.br-6A00FF?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <a href="mailto:gabrieltreoliveira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gabrieltreoliveira%40gmail.com-FF4F8B?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:gabrieltrevisano@deltasoftwares.com.br">
+    <img src="https://img.shields.io/badge/Email-gabrieltrevisano%40deltasoftwares.com.br-FF4F8B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Gabrieltreoliveira&label=visitas&color=6A00FF&style=for-the-badge" />
 </p>
 
 <h2 align="center">Crio soluções web com foco em gestão, produtividade e uma pegada de infra bem feita.</h2>
 
-<br/>
-
-<div align="center">
-  <a href="https://www.deltasoftwares.com.br">
-    <svg width="190" height="44" viewBox="0 0 190 44" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <linearGradient id="g1" x1="0" x2="1">
-          <stop offset="0%" stop-color="#6A00FF"/>
-          <stop offset="100%" stop-color="#9B5CFF">
-            <animate attributeName="stop-color" values="#9B5CFF;#6A00FF;#9B5CFF" dur="3.5s" repeatCount="indefinite"/>
-          </stop>
-        </linearGradient>
-        <filter id="blur"><feGaussianBlur in="SourceGraphic" stdDeviation="0.6"/></filter>
-      </defs>
-      <rect rx="12" width="190" height="44" fill="url(#g1)"/>
-      <text x="95" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial" font-size="16" fill="#fff">Visitar site</text>
-    </svg>
-  </a>
+<p align="center">
+  <a href="https://www.deltasoftwares.com.br"><img src="./assets/cta-visit-site.svg" alt="Visitar site" /></a>
   &nbsp;&nbsp;
-  <a href="#">
-    <svg width="190" height="44" viewBox="0 0 190 44" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <linearGradient id="g2" x1="0" x2="1">
-          <stop offset="0%" stop-color="#FF4F8B"/>
-          <stop offset="100%" stop-color="#FF7BB0">
-            <animate attributeName="stop-color" values="#FF7BB0;#FF4F8B;#FF7BB0" dur="3.5s" repeatCount="indefinite"/>
-          </stop>
-        </linearGradient>
-      </defs>
-      <rect rx="12" width="190" height="44" fill="url(#g2)"/>
-      <text x="95" y="28" text-anchor="middle" font-family="Inter, Segoe UI, Arial" font-size="16" fill="#fff">Baixar CV</text>
-    </svg>
-  </a>
-</div>
-
-<br/>
+  <a href="#"><img src="./assets/cta-cv.svg" alt="Baixar CV" /></a>
+</p>
 
 ### Destaques
 <table>
@@ -103,7 +74,7 @@
   <tr>
     <td>
       <b>DataReg</b><br/>
-      ERP para PMEs com módulos de gestão e relatórios.<br/>
+      ERP para PMEs com módulos de gestão e relatórios.<br/><br/>
       <a href="https://github.com/Gabrieltreoliveira/datareg">
         <img src="https://img.shields.io/badge/Abrir%20repositório-6A00FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -119,21 +90,21 @@
   <br/>
   <ul>
     <li>Foco em unir desenvolvimento + infraestrutura.</li>
-    <li>Gosto de criar experiências simples, rápidas e seguras.</li>
+    <li>Experiência com XAMPP, MySQL/MariaDB e servidores Windows.</li>
     <li>Curioso por automações, dashboards e gestão de dados.</li>
   </ul>
 </details>
 
 ### Estatísticas
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gabrieltreoliveira&show_icons=true&hide_title=true&count_private=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieltreoliveira&layout=compact&langs_count=8&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gabrieltreoliveira&show_icons=true&hide_title=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieltreoliveira&layout=compact&langs_count=8" />
 </p>
 
 ### Contato
 <a href="https://www.deltasoftwares.com.br">
   <img src="https://img.shields.io/badge/Website-deltasoftwares.com.br-6A00FF?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
-<a href="mailto:gabrieltreoliveira@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gabrieltreoliveira%40gmail.com-FF4F8B?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:gabrieltrevisano@deltasoftwares.com.br">
+  <img src="https://img.shields.io/badge/Email-gabrieltrevisano%40deltasoftwares.com.br-FF4F8B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
