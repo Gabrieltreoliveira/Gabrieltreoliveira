@@ -1,7 +1,10 @@
 <img src="./assets/banner.png" width="100%" alt="Gabriel Trevisano — Delta Softwares" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Gabriel+Trevisano;Desenvolvedor+Web+—+Delta+Softwares;PHP+%7C+MySQL+%7C+Infra+%7C+XAMPP" alt="typing" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Gabriel+Trevisano;Desenvolvedor+Web+-+Delta+Softwares;PHP+%7C+MySQL+%7C+Infra+%7C+XAMPP"
+    alt="typing"
+  />
 </p>
 
 <p align="center">
@@ -14,13 +17,13 @@
   <img src="https://komarev.com/ghpvc/?username=Gabrieltreoliveira&label=visitas&color=6A00FF&style=for-the-badge" />
 </p>
 
-<h2 align="center">Crio soluções web com foco em gestão, produtividade e uma pegada de infra bem feita.</h2>
-
 <p align="center">
   <a href="https://www.deltasoftwares.com.br"><img src="./assets/cta-visit-site.svg" alt="Visitar site" /></a>
   &nbsp;&nbsp;
   <a href="#"><img src="./assets/cta-cv.svg" alt="Baixar CV" /></a>
 </p>
+
+---
 
 ### Destaques
 <table>
